@@ -11,7 +11,7 @@ public class GatewayApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GatewayApplication.class, args);
 		System.out.println("Gateway Application started");
-		System.out.println("Gateway Application started in next 5 mins");
+		System.out.println("Gateway Application started --- Testing webhooks");
 	}
 
 }
